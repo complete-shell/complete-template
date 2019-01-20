@@ -1,0 +1,10 @@
+CompleteShell v0.2
+
+N template
+
+O --foo =dir
+O --bar =file
+
+C this
+C that
+C other
